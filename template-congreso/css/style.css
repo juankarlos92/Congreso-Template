@@ -99,7 +99,7 @@ figure {
 }
 
 .fh5co-nav {
-  position: absolute;
+  position: fixed;
   top: 0;
   margin: 0;
   padding: 0;
@@ -124,7 +124,7 @@ figure {
 
 .fh5co-nav a {
   padding: 5px 10px;
-  color: #fff;
+  color:blue;
 }
 
 @media screen and (max-width: 768px) {
@@ -150,7 +150,7 @@ figure {
   font-size: 14px;
   padding: 30px 10px;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
+  color: blue;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
