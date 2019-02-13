@@ -13,6 +13,7 @@
 *
 * ======================================================= */
 
+
 body {
   font-family: 'Times New Roman', Times, serif;
   font-weight: 400;
@@ -52,7 +53,7 @@ body {
 }
 
 a {
-  color: #F14E95;
+  color: black;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -99,13 +100,14 @@ figure {
 }
 
 .fh5co-nav {
-  position: absolute;
+  position: fixed;
   top: 0;
-  margin: 0;
+  margin:0;
   padding: 0;
   width: 100%;
   padding: 40px 0;
   z-index: 1001;
+  
 }
 
 @media screen and (max-width: 768px) {
@@ -124,7 +126,7 @@ figure {
 
 .fh5co-nav a {
   padding: 5px 10px;
-  color: #fff;
+  color:blue;
 }
 
 @media screen and (max-width: 768px) {
@@ -150,7 +152,7 @@ figure {
   font-size: 14px;
   padding: 30px 10px;
   text-transform: uppercase;
-  color: rgba(255, 255, 255, 0.5);
+  color: blue;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -159,7 +161,7 @@ figure {
 .fh5co-nav ul li a:hover,
 .fh5co-nav ul li a:focus,
 .fh5co-nav ul li a:active {
-  color: white;
+  color:blue;
 }
 
 .fh5co-nav ul li.has-dropdown {
@@ -860,7 +862,7 @@ figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #F14E95;
+  color: blue;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -882,7 +884,7 @@ figure {
 }
 
 .fh5co-contact-info ul li:before {
-  color: #F14E95;
+  color:blue;
   position: absolute;
   left: 0;
   top: .05em;
@@ -1296,7 +1298,7 @@ form label {
   height: 90px;
   font-size: 40px;
   line-height: 40px;
-  color: #F14E95;
+  color:black;
 }
 
 .feature-center p,
