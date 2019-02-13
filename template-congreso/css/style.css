@@ -54,7 +54,7 @@ body {
 }
 
 a {
-  color: #F14E95;
+  color: black;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -863,7 +863,7 @@ figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #F14E95;
+  color: blue;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -885,7 +885,7 @@ figure {
 }
 
 .fh5co-contact-info ul li:before {
-  color: #F14E95;
+  color:blue;
   position: absolute;
   left: 0;
   top: .05em;
