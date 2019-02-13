@@ -106,6 +106,7 @@ figure {
   width: 100%;
   padding: 40px 0;
   z-index: 1001;
+  background: burlywood;
 }
 
 @media screen and (max-width: 768px) {
