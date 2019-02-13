@@ -889,7 +889,7 @@ figure {
   left: 0;
   top: .05em;
   font-family: 'icomoon';
-  speak: none;
+  /*speak: none;*/
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -1671,7 +1671,7 @@ form label {
   position: absolute;
   right: 0px;
   font-family: 'icomoon';
-  speak: none;
+  /*speak: none;*/
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
