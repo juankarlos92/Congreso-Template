@@ -13,6 +13,8 @@
 *
 * ======================================================= */
 
+
+
 body {
   font-family: 'Times New Roman', Times, serif;
   font-weight: 400;
@@ -106,7 +108,7 @@ figure {
   width: 100%;
   padding: 40px 0;
   z-index: 1001;
-  background: burlywood;
+  
 }
 
 @media screen and (max-width: 768px) {
@@ -160,7 +162,7 @@ figure {
 .fh5co-nav ul li a:hover,
 .fh5co-nav ul li a:focus,
 .fh5co-nav ul li a:active {
-  color: white;
+  color:blue;
 }
 
 .fh5co-nav ul li.has-dropdown {
